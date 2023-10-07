@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5336819B2AD0E6DC0035351B /* ForecastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5336819A2AD0E6DC0035351B /* ForecastViewController.swift */; };
+		5336819C2AD0E6DC0035351B /* ForecastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5336819A2AD0E6DC0035351B /* ForecastViewController.swift */; };
+		5336819D2AD0E6DC0035351B /* ForecastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5336819A2AD0E6DC0035351B /* ForecastViewController.swift */; };
 		997BF5EB29D4838D0099F2B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997BF5EA29D4838D0099F2B4 /* AppDelegate.swift */; };
 		997BF5ED29D4838D0099F2B4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997BF5EC29D4838D0099F2B4 /* SceneDelegate.swift */; };
 		997BF5F229D4838D0099F2B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 997BF5F029D4838D0099F2B4 /* Main.storyboard */; };
@@ -35,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5336819A2AD0E6DC0035351B /* ForecastViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastViewController.swift; sourceTree = "<group>"; };
 		997BF5E729D4838D0099F2B4 /* CloudCast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CloudCast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		997BF5EA29D4838D0099F2B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		997BF5EC29D4838D0099F2B4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -100,6 +104,7 @@
 				997BF5EA29D4838D0099F2B4 /* AppDelegate.swift */,
 				997BF5EC29D4838D0099F2B4 /* SceneDelegate.swift */,
 				997BF5F029D4838D0099F2B4 /* Main.storyboard */,
+				5336819A2AD0E6DC0035351B /* ForecastViewController.swift */,
 				997BF5F329D4838E0099F2B4 /* Assets.xcassets */,
 				997BF5F529D4838E0099F2B4 /* LaunchScreen.storyboard */,
 				997BF5F829D4838E0099F2B4 /* Info.plist */,
@@ -257,6 +262,7 @@
 			files = (
 				997BF5EB29D4838D0099F2B4 /* AppDelegate.swift in Sources */,
 				997BF5ED29D4838D0099F2B4 /* SceneDelegate.swift in Sources */,
+				5336819B2AD0E6DC0035351B /* ForecastViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				997BF60229D4838E0099F2B4 /* CloudCastTests.swift in Sources */,
+				5336819C2AD0E6DC0035351B /* ForecastViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +281,7 @@
 			files = (
 				997BF60C29D4838E0099F2B4 /* CloudCastUITests.swift in Sources */,
 				997BF60E29D4838E0099F2B4 /* CloudCastUITestsLaunchTests.swift in Sources */,
+				5336819D2AD0E6DC0035351B /* ForecastViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
